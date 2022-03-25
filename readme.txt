@@ -1,2 +1,1 @@
-learn git init
-fuck
+fuc
